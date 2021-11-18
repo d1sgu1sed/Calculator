@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="del">/</string>
+    <string name="multi">*</string>
+    <string name="hint">Write</string>
+    <string name="hintRes">Result</string>
+    <string name="equal">=</string>
+    <string name="exit">Выход</string>
+    <string name="inform">О приложении</string>
+    <string name="aboute_autor">Разработчик: Кичигин Иван. Любить и жаловать!:)</string>
+</resources>
